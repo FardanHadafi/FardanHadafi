@@ -2,7 +2,7 @@
 
 ![Fardan Hadafi](github-header-image.png)
 
-- 🌐 I’m currently learning on React & Go
+- 🌐 I’m currently learning Fullstack Web Developer
 
 ### Skills
 
